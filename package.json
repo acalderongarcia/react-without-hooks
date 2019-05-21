@@ -32,9 +32,6 @@
     "redux-promise-middleware": "^6.1.0",
     "redux-thunk": "^2.3.0",
     "type-to-reducer": "^1.1.0",
-    "webpack": "^4.30.0",
-    "webpack-cli": "^3.3.1",
-    "webpack-dev-server": "^3.3.1",
     "whatwg-fetch": "3.0.0",
     "yarn": "^1.15.2"
   },
