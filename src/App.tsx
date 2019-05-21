@@ -18,6 +18,11 @@ class App extends React.Component{
             <div>
                 <Header/>
                 {children.children}
+
+                <body> 
+                sssFFFFFFFFFFFFFFFFFF
+                
+                </body>
             </div>
         );
     }
