@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing src/components/NavigationBar/index.tsx Button it renders 1`] = `
+<button
+  aria-controls="navbarSupportedContent"
+  aria-expanded="false"
+  aria-label="Toggle navigation"
+  className="navbar-toggler"
+  data-target="#navbarSupportedContent"
+  data-toggle="collapse"
+  type="button"
+>
+  <span
+    className="navbar-toggler-icon"
+  />
+</button>
+`;
+
+exports[`Testing src/components/NavigationBar/index.tsx ReactFlagsSelect it renders 1`] = `
+<div
+  className="NavigationBar"
+>
+  <nav
+    className="navbar navbar-expand-lg navbar-light bg-light"
+  >
+    <a
+      className="navbar-brand"
+      href="#"
+    >
+      Title
+    </a>
+    <div
+      className="flag-select "
+    >
+      <div
+        className="selected--flag--option "
+        onClick={[Function]}
+        onKeyUp={[Function]}
+        style={
+          Object {
+            "fontSize": "16px",
+          }
+        }
+        tabIndex="0"
+      >
+        <span
+          className="country-label"
+        >
+          Select a country
+        </span>
+        <span
+          className="arrow-down "
+        >
+          ▾
+        </span>
+      </div>
+    </div>
+  </nav>
+</div>
+`;

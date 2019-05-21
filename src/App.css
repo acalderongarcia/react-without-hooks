@@ -1,0 +1,36 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.firstSection{
+  background-color:transparent !important;
+}
+
+.secondSection{
+  background-color:rgb(243, 242, 242) !important;
+}
+
+.logo{
+  height: 325px;
+}
+
+.downloadApple{
+  height: 50px;
+}
+
+.blue-text{
+  color: rgb(28, 69, 255);
+}
+
+.btn{
+  border-radius: 0!important;
+}
+
+.btn-blue{
+  background-color: #1976d2!important;
+  color: #fff!important;
+}
