@@ -1,0 +1,150 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing src/pages/Home/index.tsx Testing jumbotron firstSection text-center 1`] = `
+<div
+  className="jumbotron firstSection text-center"
+>
+  <img
+    alt="Redux thunk explanation"
+    className="logo"
+  />
+  <h1
+    className="card-title h1 my-5"
+  >
+    Lorem
+  </h1>
+  <p
+    className="blue-text my-3 font-weight-bold"
+  >
+    Switch from home page and use Redux to call a fun API
+  </p>
+  <div
+    className="row d-flex justify-content-center"
+  >
+    <div
+      className="col-7 pb-2"
+    >
+      <p
+        className="card-text"
+      >
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga aliquid dolorem ea distinctio exercitationem delectus qui, quas eum architecto, amet quasi accusantium, fugit consequatur ducimus obcaecati numquam molestias hic itaque accusantium doloremque laudantium, totam rem aperiam.
+      </p>
+    </div>
+  </div>
+  <hr
+    className="my-4"
+  />
+  <div
+    className="pt-2"
+  >
+    <button
+      className="MuiButtonBase-root-27 MuiButton-root-1 MuiButton-text-3 MuiButton-flat-6 pl-4 pr-4 btn mr-3 btn-blue waves-effect"
+      disabled={false}
+      onBlur={[Function]}
+      onContextMenu={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <span
+        className="MuiButton-label-2"
+      >
+        Login
+      </span>
+      <span
+        className="MuiTouchRipple-root-30"
+      />
+    </button>
+    <button
+      className="MuiButtonBase-root-27 MuiButton-root-1 MuiButton-text-3 MuiButton-flat-6 pl-4 pr-4 btn btn-outline-primary waves-effect"
+      disabled={false}
+      onBlur={[Function]}
+      onContextMenu={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <span
+        className="MuiButton-label-2"
+      >
+        Info
+      </span>
+      <span
+        className="MuiTouchRipple-root-30"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Testing src/pages/Home/index.tsx Testing jumbotron secondSection text-center 1`] = `
+<div
+  className="jumbotron secondSection text-center"
+>
+  <img
+    alt="Redux logo"
+    className="logo"
+    src="reduxLogo.png"
+  />
+  <h1
+    className="card-title h1 my-5"
+  >
+    Download:
+  </h1>
+  <p
+    className="blue-text my-3 font-weight-bold"
+  >
+    Links for app download
+  </p>
+  <div
+    className="row d-flex justify-content-center"
+  >
+    <div
+      className="col-7 pb-2"
+    >
+      <p
+        className="card-text"
+      >
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga aliquid dolorem ea distinctio exercitationem delectus qui, quas eum architecto, amet quasi accusantium, fugit consequatur ducimus obcaecati numquam molestias hic itaque accusantium doloremque laudantium, totam rem aperiam.
+      </p>
+    </div>
+  </div>
+  <hr
+    className="my-4"
+  />
+  <a
+    href="https://www.apple.com/ios/app-store/"
+  >
+    <img
+      alt="link to download from Apple Store"
+      className="downloadApple mr-2"
+      src="downloadApple.png"
+    />
+  </a>
+  <a
+    href="https://play.google.com/store"
+  >
+    <img
+      alt="link to download from google Store"
+      className="downloadApple"
+      src="googlePlay.png"
+    />
+  </a>
+</div>
+`;
